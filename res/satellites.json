@@ -1,0 +1,51 @@
+[
+  {
+    "planet": "Earth",
+    "name": "Moon",
+    "mass": 4902.801,
+    "radius": 1737.5,
+    "density": 3.344
+  },
+  {
+    "planet": "Mars",
+    "name": "Phobos",
+    "mass": 7.11e-4,
+    "radius": 11.1,
+    "density": 1.872
+  },
+  {
+    "planet": "Mars",
+    "name": "Deimos",
+    "mass": 9.9e-5,
+    "radius": 6.2,
+    "density": 1.471
+  },
+  {
+    "planet": "Jupiter",
+    "name": "Io",
+    "mass": 5959.916,
+    "radius": 1821.6,
+    "density": 3.528
+  },
+  {
+    "planet": "Jupiter",
+    "name": "Europa",
+    "mass": 3202.739,
+    "radius": 1560.8,
+    "density": 3.013
+  },
+  {
+    "planet": "Jupiter",
+    "name": "Ganymede",
+    "mass": 9887.834,
+    "radius": 2631.2,
+    "density": 1.942
+  },
+  {
+    "planet": "Jupiter",
+    "name": "Callisto",
+    "mass": 7179.289,
+    "radius": 2410.3,
+    "density": 1.834
+  }
+]

@@ -1,0 +1,50 @@
+body {
+  background: #1d1f20;
+  color: #fafafa;
+  padding: 8px;
+}
+
+#category-selector select {
+  display: flex;
+  flex-wrap: wrap;
+  border-radius: 2px;
+  max-width: 70px;
+  flex-grow: 1;
+  background: #36383f;
+  color: white;
+  text-align: center;
+  padding: 4px;
+  margin: 4px;
+  outline: none;
+}
+
+#word {
+  display: none;
+  margin-top: 8px;
+  border: solid 8px #36383f;
+  padding: 16px;
+  border-radius: 8px;
+  font-size: 20pt;
+  color: white;
+  text-align: center;
+}
+
+#transcription {
+  font-size: 10pt;
+}
+
+#buttons {
+  display: none;
+}
+
+#buttons button {
+  width: 100%;
+  margin-top: 12px;
+  padding: 8px;
+  background: #36383f;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 12pt;
+  outline: none;
+}

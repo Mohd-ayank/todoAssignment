@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto:400,400i,700");
+
+body {
+  padding: 8px;
+  background-color: #fafafa;
+  color: #0f0f0f;
+  font-family: Montserrat;
+  font-size: 11pt;
+}
+
+.container {
+  margin-top: 8px;
+  margin-bottom: 8px;
+  padding: 8px;
+  background-color: #fff;
+  border-radius: 4px;
+  box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.06), 0 2px 4px 0 rgba(0, 0, 0, 0.15);
+}
+
+.container-grey {
+  margin-top: 8px;
+  margin-bottom: 8px;
+  padding: 8px;
+  background-color: #f1f1f1;
+  border-radius: 4px;
+  box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.06), 0 2px 4px 0 rgba(0, 0, 0, 0.15);
+}
